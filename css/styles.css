@@ -122,3 +122,9 @@
   transform: scale(1.3);
 }
 
+@media only screen and (max-width: 553px) {
+    .modal-container {
+        height: 60vh;
+        width: 100vw;
+    }
+}
